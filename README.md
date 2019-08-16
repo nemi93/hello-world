@@ -1,2 +1,9 @@
 # hello-world
-Testing a new repo
+Hello CodeWorld!
+
+Its Nemi here, just checking out my Github account as i resume 
+my dreaming in code projects out here.
+
+The dream lives on.
+
+
